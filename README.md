@@ -1,4 +1,4 @@
-#50 Projects in 50 Days- HTML, CSS & JavaScript
+# 50 Projects in 50 Days- HTML, CSS & JavaScript
 
 
 ## Esta é uma landing page do 1º dia de 50 dias de  projetos do curso feito na plataforma udemy
@@ -7,7 +7,7 @@
 - <h2 align="left">Descrição do projeto</h2>
 
 <p align="left">Este projeto foi criando para exercitar alguns conceitos basicos em: HTML, CSS  e javascript
-o projeto nãoa esta responsivo a telas menores e contem alguns conceitos basicos de javascript tal como rotacionar a pagina quando clicar em um botão
+o projeto nãa esta responsivo a telas menores e contem alguns conceitos basicos de javascript tal como rotacionar a pagina quando clicar em um botão
  </p>
 <br>
 <br>
